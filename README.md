@@ -24,7 +24,7 @@ Retention strategies should target **early-career employees (1–3 years, 26–3
 - `README.md` → Project documentation  
 
 ## 📸 Dashboard Preview  
-![HR Attrition Dashboard](Dashboard_SS.png)  
+![HR Attrition Dashboard](Dashboard_SS.png)
 
 ---
 📌 **Created by:** CHAITANYA SHARMA 
