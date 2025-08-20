@@ -18,12 +18,13 @@ The dashboard provides insights into **attrition trends by age, job role, educat
 Retention strategies should target **early-career employees (1–3 years, 26–35 age group)**, especially in Sales & Lab roles, to reduce turnover costs.  
 
 ## 📂 Repository Content  
-- `HR_Dashboard.pdf` → Dashboard export (full report)  
 - `Dashboard_Screenshots/` → Visual previews  
+- `HR Dashboard.pbix` → Power BI file  
+- `HR Dashboard.pdf` → Dashboard export   
 - `README.md` → Project documentation  
 
 ## 📸 Dashboard Preview  
-![HR Attrition Dashboard](screenshot.png)  
+![HR Attrition Dashboard](Dashboard_SS.png)  
 
 ---
 📌 **Created by:** CHAITANYA SHARMA 
